@@ -1,0 +1,10 @@
+2024-06-05 22:01:06.713 [main] INFO  com.testcases.logintest - Launch chrome browser
+2024-06-05 22:01:13.606 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-06-05 22:01:13.607 [main] INFO  com.testcases.etst1 - enter username
+2024-06-05 22:01:13.720 [main] INFO  com.pages.Login - performed Action on uname element
+2024-06-05 22:01:13.720 [main] INFO  com.testcases.etst1 - enter Password
+2024-06-05 22:01:13.787 [main] INFO  com.pages.Login - performed Action on password element
+2024-06-05 22:01:13.879 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-06-05 22:01:13.889 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-06-05 22:01:13.889 [main] INFO  com.testcases.etst1 - Title is correct
+2024-06-05 22:01:13.889 [main] INFO  com.testcases.etst1 - **END of the Login test

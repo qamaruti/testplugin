@@ -1,0 +1,55 @@
+2024-04-11 14:33:32.819 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-04-11 14:33:32.822 [main] INFO  com.testcases.etst1 - enter username
+2024-04-11 14:33:32.910 [main] INFO  com.pages.Login - performed Action on uname element
+2024-04-11 14:33:32.910 [main] INFO  com.testcases.etst1 - enter Password
+2024-04-11 14:33:32.986 [main] INFO  com.pages.Login - performed Action on password element
+2024-04-11 14:33:33.098 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-04-11 14:33:33.109 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-04-11 14:33:33.109 [main] ERROR com.testcases.etst1 - Title is Wrong
+2024-04-11 14:33:33.109 [main] INFO  com.testcases.etst1 - **END of the Login test
+2024-04-11 14:43:29.977 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-04-11 14:43:29.981 [main] INFO  com.testcases.etst1 - enter username
+2024-04-11 14:43:30.096 [main] INFO  com.pages.Login - performed Action on uname element
+2024-04-11 14:43:30.096 [main] INFO  com.testcases.etst1 - enter Password
+2024-04-11 14:43:30.163 [main] INFO  com.pages.Login - performed Action on password element
+2024-04-11 14:43:30.267 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-04-11 14:43:30.276 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-04-11 14:43:30.276 [main] ERROR com.testcases.etst1 - Title is Wrong
+2024-04-11 14:43:30.276 [main] INFO  com.testcases.etst1 - **END of the Login test
+2024-04-11 14:44:30.166 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-04-11 14:44:30.169 [main] INFO  com.testcases.etst1 - enter username
+2024-04-11 14:44:30.281 [main] INFO  com.pages.Login - performed Action on uname element
+2024-04-11 14:44:30.281 [main] INFO  com.testcases.etst1 - enter Password
+2024-04-11 14:44:30.355 [main] INFO  com.pages.Login - performed Action on password element
+2024-04-11 14:44:30.467 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-04-11 14:44:30.476 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-04-11 14:44:30.476 [main] ERROR com.testcases.etst1 - Title is Wrong
+2024-04-11 14:44:30.477 [main] INFO  com.testcases.etst1 - **END of the Login test
+2024-04-11 14:45:28.054 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-04-11 14:45:28.059 [main] INFO  com.testcases.etst1 - enter username
+2024-04-11 14:45:28.158 [main] INFO  com.pages.Login - performed Action on uname element
+2024-04-11 14:45:28.159 [main] INFO  com.testcases.etst1 - enter Password
+2024-04-11 14:45:28.227 [main] INFO  com.pages.Login - performed Action on password element
+2024-04-11 14:45:28.327 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-04-11 14:45:28.336 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-04-11 14:45:28.337 [main] ERROR com.testcases.etst1 - Title is Wrong
+2024-04-11 14:45:28.337 [main] INFO  com.testcases.etst1 - **END of the Login test
+2024-04-11 16:44:04.846 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-04-11 16:44:04.851 [main] INFO  com.testcases.etst1 - enter username
+2024-04-11 16:44:04.936 [main] INFO  com.pages.Login - performed Action on uname element
+2024-04-11 16:44:04.936 [main] INFO  com.testcases.etst1 - enter Password
+2024-04-11 16:44:04.989 [main] INFO  com.pages.Login - performed Action on password element
+2024-04-11 16:44:05.070 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-04-11 16:44:05.082 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-04-11 16:44:05.082 [main] INFO  com.testcases.etst1 - Title is correct
+2024-04-11 16:44:05.082 [main] INFO  com.testcases.etst1 - **END of the Login test
+2024-04-11 17:02:47.404 [main] INFO  com.testcases.logintest - Launch chrome browser
+2024-04-11 17:02:52.610 [main] INFO  com.testcases.etst1 - ** Start logintests
+2024-04-11 17:02:52.610 [main] INFO  com.testcases.etst1 - enter username
+2024-04-11 17:02:52.740 [main] INFO  com.pages.Login - performed Action on uname element
+2024-04-11 17:02:52.740 [main] INFO  com.testcases.etst1 - enter Password
+2024-04-11 17:02:52.816 [main] INFO  com.pages.Login - performed Action on password element
+2024-04-11 17:02:52.917 [main] INFO  com.pages.Login - performed Action on lgnbutn element
+2024-04-11 17:02:52.929 [main] INFO  com.testcases.etst1 - Title is Swag Labs
+2024-04-11 17:02:52.929 [main] INFO  com.testcases.etst1 - Title is correct
+2024-04-11 17:02:52.929 [main] INFO  com.testcases.etst1 - **END of the Login test
